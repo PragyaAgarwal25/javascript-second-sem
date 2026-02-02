@@ -1,1 +1,1 @@
-# javascript-second-sem
+# javascript day1
